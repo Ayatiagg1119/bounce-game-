@@ -1,1 +1,2 @@
-# bounce-game-
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
